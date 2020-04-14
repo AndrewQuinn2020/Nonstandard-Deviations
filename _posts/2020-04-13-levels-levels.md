@@ -5,6 +5,8 @@ date: 2020-04-13 11:55
 categories: meta coding
 ---
 
+{% include mathjax.html %}
+
 If you're reading this, it means my first blog-style post successfully went up to Nonstandard Deviations! Great work.
 
 This blog runs on what I consider to be an especially elegant stack of software.
@@ -16,3 +18,7 @@ This blog runs on what I consider to be an especially elegant stack of software.
 **End cost**: $15/year, compared to WordPress's $fuck-you/year, and I have personal copies of all the software and code that make this blog tick available to me for as long as I care to hold onto it. [Long Site design](https://www.gwern.net/About#long-site) is a good principle to uphold even if the content itself is not worth much.
 
 [^6466]: This is *not* an affiliate link. I do *not* make money off you clicking this. I just really like Hover as a company.
+
+{% raw %}
+ $$a^2 + b^2 = c^2$$
+{% endraw %}
